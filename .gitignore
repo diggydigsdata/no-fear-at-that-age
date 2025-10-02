@@ -1,0 +1,20 @@
+# notebook clutter
+**/.ipynb_checkpoints/**
+
+# IDE / editor settings
+.idea/
+.vscode/
+
+# Quarto project configs
+.quarto/
+_quarto.yml
+
+# Quarto build outputs
+outputs/
+
+# Data
+data/
+
+# Python caches
+**__pycache__/**
+*.pyc
